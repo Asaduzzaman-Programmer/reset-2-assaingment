@@ -140,7 +140,35 @@ body {
   background-color: transparent;
 }
 
+.hide{
+  visibility: hidden;
+}
 
+@media screen and (max-width: 574px) {
+    
+    .main{
+      flex-direction: column;
+    }
+    .builder {
+      margin-top: 30px;
+      margin-left: 5px;
+      
+    }
+    body {
+      margin: 0;
+    }
+    .link{
+      display: none;
+    }
+    .hide{
+      font-size: 30px;
+      visibility: visible;
+    }
+    .vedio{
+      
+    }
+    
+}
 
 
 
