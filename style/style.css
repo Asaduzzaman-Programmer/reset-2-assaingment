@@ -1,0 +1,185 @@
+* {
+  font-family: Inter;
+  background: rgb(0, 0, 0);
+  color: aliceblue;
+}
+body {
+  margin-left: 14rem;
+  margin-right: 14rem;
+}
+
+.container {
+  display: flex;
+  margin-top: 2.5rem;
+  align-items: center;
+  justify-items: center;
+  justify-content: space-between;
+}
+
+.fitness {
+  color: rgb(230, 83, 60);
+  font-weight: 800;
+  font-size: 2.2rem;
+}
+
+.link {
+  border: 0.1rem solid gray;
+  padding: 0.5rem;
+  border-radius: 1rem;
+}
+.link a {
+  text-decoration: none;
+  color: aliceblue;
+  margin-right: 2rem;
+  margin-left: 2rem;
+}
+
+.body {
+  width: 400px;
+
+  font-family: Inter;
+  font-size: 58px;
+  font-weight: 800;
+}
+
+.shape {
+  font-family: Great Vibes;
+}
+
+.join {
+  border-radius: 42px;
+  padding: 12px 40px 12px 40px;
+  background: rgb(230, 83, 60);
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.download {
+  border: 1px solid white;
+  border-radius: 42px;
+  padding: 12px 40px 12px 40px;
+  background: rgb(0, 0, 0);
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.main {
+  padding-top: 2rem;
+  display: flex;
+
+  align-items: center;
+}
+
+.builder {
+  margin-left: 650px;
+  position: relative;
+}
+
+.vedio {
+  border-radius: 12px;
+  width: 190px;
+  height: 90px;
+  padding-left: 17px;
+  background: transparent;
+  margin-top: -500px;
+  margin-left: 210px;
+  position: absolute;
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+}
+
+.workout {
+  width: 190px;
+  height: 86px;
+  background: transparent;
+  margin-top: -167px;
+  margin-left: -90px;
+  position: absolute;
+  display: flex;
+  gap: 20px;
+  border-radius: 12px;
+  backdrop-filter: blur(20px);
+  background: rgba(48, 48, 48, 0.54);
+  align-items: center;
+  justify-content: center;
+}
+
+.workout i {
+  font-size: 2.2rem;
+  color: red;
+  background-color: red;
+  border-radius: 50%;
+
+  margin-left: 10px;
+}
+.five {
+  margin-top: 7px;
+  width: 116px;
+  height: 40px;
+  font-size: 2rem;
+  background-color: transparent;
+  padding-left: 17px;
+}
+
+.free {
+  margin-top: -18px;
+  background-color: transparent;
+  padding-left: 17px;
+}
+
+.three {
+  background-color: transparent;
+}
+
+.tutorial {
+  background-color: transparent;
+  margin-top: -14px;
+}
+
+.transparent {
+  background-color: transparent;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
